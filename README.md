@@ -7,7 +7,7 @@ This algorithm was developed for MATE ROV International Competition 2017/18. The
 
 
 # Video Demonstration
-[Shows the algorithm detecting and tracking objects] (http://tiny.cc/i9a1dz)
+[Shows the algorithm detecting and tracking objects](http://tiny.cc/i9a1dz)
 
 
 # Setup/Installation
